@@ -1,4 +1,4 @@
-# lastfm-dataset-2020 (!!! UNDER CONSTRUCTION !!!)
+# lastfm-dataset-2020
 New Last.fm Dataset 2020 for music auto-tagging purposes. This dataset is based on the concept of the original [Last.fm Dataset](http://millionsongdataset.com/lastfm/) which is based on the [Million Song Dataset](http://millionsongdataset.com/). This dataset is a by-product of my masters's thesis (see [repository](https://github.com/renesemela/masters-thesis-music-autotagging)).
 
 There are **122877 tracks** and **100 tags** in the dataset. For each track, you can find metadata (Last.fm track URL, **Spotify MP3 Preview URL for download**, ...).
